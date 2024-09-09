@@ -1,1 +1,1 @@
-it's python.
+I'm learning Python. I don't own these things, just coding along on youtube.
